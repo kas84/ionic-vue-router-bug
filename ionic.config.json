@@ -1,0 +1,7 @@
+{
+  "name": "myVueRouter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
